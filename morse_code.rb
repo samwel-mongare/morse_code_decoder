@@ -1,4 +1,3 @@
-# frozen_string_literal: true
 
 def decode_char(code)
   decoder = { '.-' => 'A', '-...' => 'B', '-.-.' => 'C', '-..' => 'D', '.' => 'E', '..-.' => 'F', '--.' => 'G',
