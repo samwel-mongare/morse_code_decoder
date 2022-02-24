@@ -25,7 +25,7 @@
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Mosams/morse_code_decoder/issues).
 
 ## Show your support
 
